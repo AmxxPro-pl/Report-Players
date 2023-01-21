@@ -4,8 +4,6 @@
 
 </div>
 
----
-
 ### Description
 - System zgłoszeń graczy CS 1.6 zintegrowany z platformą Discord
 - Odczytywanie powodów z pliku reasons.ini
