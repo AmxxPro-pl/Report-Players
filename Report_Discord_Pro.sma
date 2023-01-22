@@ -32,7 +32,7 @@ new Trie: AntiF, AntiFlood[33];
 
 public plugin_init()
 {
-    #if AMXX_VERSION_NUM > 110
+    #if AMXX_VERSION_NUM < 110
         register_plugin(PLUGIN, VERSION, AUTHOR, URL_AUTHOR, DESCRIPTION);
     #else
         register_plugin(PLUGIN, VERSION, AUTHOR);
