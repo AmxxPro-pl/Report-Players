@@ -144,7 +144,7 @@ amxxpro_discord_thumbnail_img "https://i.imgur.com/EDUv58r.png"
   
   - Discord Message
   
-  <img src="https://github.com/AmxxPro-pl/Report-Players/blob/main/img/bot2.png"></img>
+  <img src="https://github.com/AmxxPro-pl/Report-Players/blob/main/img/F8C093D3-3F56-4B5C-B79C-3875E92E14AF.jpeg"></img>
 </details>
 
 ### Requirements 
