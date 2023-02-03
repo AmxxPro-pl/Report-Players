@@ -1,8 +1,9 @@
 <div align="center">
-
-# Report Players
-
+<h1><p></p>Report Players<p></p></h1>
+<img src="https://github.com/AmxxPro-pl/.github/blob/main/Banner.png"></img>
 </div>
+
+---
 
 ### Description
 - System zgłoszeń graczy CS 1.6 zintegrowany z platformą Discord
