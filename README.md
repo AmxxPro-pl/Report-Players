@@ -80,9 +80,6 @@ amxxpro_discord_show_thumbnail_img "1"
 ;ID Grup, które mają zostać oznaczone? ( @everyone - domyslnie )
 amxxpro_discord_id_ranga "@everyone"
 
-;Jaka ma byc wyswietlana nazwa forum w konsoli?
-amxxpro_contact_forum "AmxxPro.pl"
-
 ;Nazwa BOT'a
 amxxpro_discord_bot_name "AmxxPro.pl - Report Player"
 
