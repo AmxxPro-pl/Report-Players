@@ -1,6 +1,6 @@
 <div align="center">
 <h1><p></p>Report Players<p></p></h1>
-<img src="https://github.com/AmxxPro-pl/.github/blob/main/Banner.png"></img>
+<img src="https://github.com/AmxxPro-pl/.github/blob/main/Banner-new.png"></img>
 </div>
 
 ---
