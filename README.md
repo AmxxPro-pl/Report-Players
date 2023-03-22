@@ -17,16 +17,16 @@
   <summary><b>api.cfg</b></summary>
 
 ```
-;===================== » API - Configuration « =====================
-;                     Autor: N1K1Cz
-;                     Strona: © AmxxPro.pl
+//===================== » API - Configuration « =====================
+//                     Autor: N1K1Cz
+//                     Strona: © AmxxPro.pl
 
 "Discord"
 {
 "report" "https://discord.com/api/webhooks/ID"
 }
 
-;===================== » API - Configuration « =====================
+//===================== » API - Configuration « =====================
 ```
 </details>
 
@@ -34,71 +34,71 @@
   <summary><b>discord.cfg</b></summary>
 
 ```
-;===================== » Discord - Configuration « =====================
-;                     Autor pluginu: N1K1Cz
-;                     Strona: © AmxxPro.pl
+//===================== » Discord - Configuration « =====================
+//                     Autor pluginu: N1K1Cz
+//                     Strona: © AmxxPro.pl
 
-;Glowny prefix pluginu ( [» AmxxPro.pl «] - Domyślnie )
+//Glowny prefix pluginu ( [» AmxxPro.pl «] - Domyślnie )
 amxxpro_discord_prefix "[» AmxxPro.pl «]"
 
-;Co ile czasu mozna wysylac zgloszenie? ( 300 - Domyślnie )
+//Co ile czasu mozna wysylac zgloszenie? ( 300 - Domyślnie )
 amxxpro_discord_interval "300"
 
-;Jaką flage musi posiadać admin, żeby być wykrywanym jako admin? ( d - Domyślnie )
+//Jaką flage musi posiadać admin, żeby być wykrywanym jako admin? ( d - Domyślnie )
 amxxpro_discord_report_flag "d"
 
-;Możliwość zgłaszania adminów? ( 1 - Tak | 0 - Nie )
+//Możliwość zgłaszania adminów? ( 1 - Tak | 0 - Nie )
 amxxpro_discord_report_admin "1"
 
-;Pokazywać # przy adminie w menu zgłoszeń? ( 1 - Tak | 0 - Nie )
+//Pokazywać # przy adminie w menu zgłoszeń? ( 1 - Tak | 0 - Nie )
 amxxpro_discord_show_admin "1"
 
-;Pokazywać czas zgłoszenia? ( 1 - Tak | 0 - Nie )
+//Pokazywać czas zgłoszenia? ( 1 - Tak | 0 - Nie )
 amxxpro_discord_show_time "1"
 
-;Pokazywać mape zgłoszenia? ( 1 - Tak | 0 - Nie )
+//Pokazywać mape zgłoszenia? ( 1 - Tak | 0 - Nie )
 amxxpro_discord_show_map "1"
 
-;Pokazywać powód zgłoszenia? ( 1 - Tak | 0 - Nie )
+//Pokazywać powód zgłoszenia? ( 1 - Tak | 0 - Nie )
 amxxpro_discord_show_reason "1"
 
-;Czy ma być włączony własny powód zgłoszenia? ( 1 - Tak | 0 - Nie )
+//Czy ma być włączony własny powód zgłoszenia? ( 1 - Tak | 0 - Nie )
 amxxpro_discord_my_reason "1"
 
-;Pokazywać gracza, który zgłosił? ( 1 - Tak | 0 - Nie )
+//Pokazywać gracza, który zgłosił? ( 1 - Tak | 0 - Nie )
 amxxpro_discord_show_player "1"
 
-;Powiadamiać adminów o zgłoszeniu na czacie? ( 1 - Tak | 0 - Nie )
+//Powiadamiać adminów o zgłoszeniu na czacie? ( 1 - Tak | 0 - Nie )
 amxxpro_discord_show_ping "1"
 
-;Pokazywać grafikę nad footerem? ( 1 - Tak | 0 - Nie )
+//Pokazywać grafikę nad footerem? ( 1 - Tak | 0 - Nie )
 amxxpro_discord_show_footer_img "1"
 
-;Pokazywać grafikę thumbnail? ( 1 - Tak | 0 - Nie )
+//Pokazywać grafikę thumbnail? ( 1 - Tak | 0 - Nie )
 amxxpro_discord_show_thumbnail_img "1"
 
-;ID Grup, które mają zostać oznaczone? ( @everyone - domyslnie )
+//ID Grup, które mają zostać oznaczone? ( @everyone - domyslnie )
 amxxpro_discord_id_ranga "@everyone"
 
-;Nazwa BOT'a
+//Nazwa BOT'a
 amxxpro_discord_bot_name "AmxxPro.pl - Report Player"
 
-;Avatar BOT'a
+//Avatar BOT'a
 amxxpro_discord_bot_avatar "https://i.imgur.com/EDUv58r.png"
 
-;Tytuł BOT'a
+//Tytuł BOT'a
 amxxpro_discord_bot_title "ReportBot - AmxxPro.PL"
 
-;Grafika nad footerem
+//Grafika nad footerem
 amxxpro_discord_footer_img "https://i.imgur.com/nlCnT4I.png"
 
 //Kolor EMBED ( 12092939 - domyslnie)
 amxxpro_discord_color "12092939"
 
-;Grafika thumbnail
+//Grafika thumbnail
 amxxpro_discord_thumbnail_img "https://i.imgur.com/EDUv58r.png"
 
-;===================== » Discord - Configuration « =====================
+//===================== » Discord - Configuration « =====================
 ```
 </details>
 
