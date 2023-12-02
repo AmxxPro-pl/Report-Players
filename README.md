@@ -119,6 +119,17 @@ amxxpro_discord_thumbnail_img "https://i.imgur.com/EDUv58r.png"
 ```
 </details>
 
+<details>
+  <summary><b>Instrukcja Instalacji</b></summary>
+
+```
+1. Pobierasz całość jako folder ZIP i rozpakowujesz
+2. Do kompilatora wrzucasz bezpośrednio plik .sma oraz pliki .inc do foleru include kompilatora (łącznie te z folderu z grip)
+3. Na serwer musisz wrzucić przekompilowany plik .amxx do plugins oraz cała zawartość folderu configs oraz modules do odpowiednich folerów
+4. Po odpaleniu serwera utworzą Ci się w configs pliki - najważniejszy to api.cfg do którego podajesz link do utworzonego na serwerze discord webhooka
+```
+</details>
+
 ### ScreenShots
 
 <details>
